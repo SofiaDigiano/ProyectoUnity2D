@@ -22,7 +22,7 @@ Gracias por ver! 🦇💜
 
 Créditos Assets Visuales y Sonidos utilizados:
 
-**SONIDO: **
+**SONIDO:**
 https://xurai.itch.io/lucidpack
 https://ferrnmusic.itch.io/3-free-ambient-orchestral-music-forrestyvng
 
