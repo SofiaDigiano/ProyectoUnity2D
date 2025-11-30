@@ -7,3 +7,10 @@ luego de pasar los 5 niveles terminará el juego.
 
 En cuanto al objetivo del proyecto y la parte de código la idea fue implementar lo aprendido en el curso. Como colisiones, objetos, interacciones, movimiento, fisica, y disposicion del mapa.
 Además de otras mécanicas y elementos visuales como metas, recoger hierbas, interacciones, botones y UI.
+
+Recomiendo jugarlo en pantalla completa, a continuación dejo el enlace donde podrás jugar al videojuego
+
+https://sofiadigiano.github.io/ProyectoUnity2D/
+
+
+Gracias por ver! 
